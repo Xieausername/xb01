@@ -17,7 +17,10 @@ export default new Router({
     {path:'/Game',component:Game},
     {path:'/Recommend',component:Recommend},
     {path: '/Home',component: Home},
+    {path: '/Home',component: Home},
     {path:'/',component:Login}
+    //{path:'/',component:recommend},
+
     //{
       //path: '/about',
       //name: 'about',
